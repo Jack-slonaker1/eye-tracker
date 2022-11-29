@@ -1,10 +1,13 @@
 # eye-tracker
 this app will follow your mouse around the screen
 
+How to run:
 download the files and add to vscode
 run the .html file in a browser
 move the mouse and watch the eyes follow!
 
+Future improvements
+add multiple eyes and make movements more fluid
 
 
 MIT License
